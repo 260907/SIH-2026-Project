@@ -117,9 +117,14 @@ More Control for Workers – Manage jobs, availability, and profiles.
 A Community That Helps – Local people support local workers.
 
 
+
 *Technology Stack:*
+
 Frontend- FLUTTER
+
 Database- MySQL
+
 Infrastructure- GOOGLE CLOUD PLATFORM
+
 Backend- PYTHON
 

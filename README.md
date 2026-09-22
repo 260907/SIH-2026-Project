@@ -38,14 +38,29 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
 -Finally, it helps make better use of local skills that may otherwise remain unnoticed. By connecting community needs with available workers, the platform can support local employment, improve access to services, and encourage stronger cooperation within the community.
 
 
-*Objectives:*
+Innovation:
 1. Swap Service: “Your worker isn’t available? We’ll find another!”
-2. Core innovation: “Find nearby users booking the same service and share the cost.”
-3. Emergency Quick Help Mode: For urgent household problems like water leakage, electrical issues, or lockout.
-   Send the request to available nearby workers.
-4. Multilanguage and Voice request: Customer can speak in Marathi/ Hindi/ English instead of typing.
-5. Provides Built-in Social Security: Automatically links worker profiles to government welfare infrastructure (e-Shram, PMSYM pensions,     PMJJBY insurance, and credit access via Urban Cooperative Banks)
-6. Predictive Employment: Smart AI analyzes weather, holidays and city repairs to forecast demand weeks ahead. 
+   If the selected worker is busy or unavailable, the platform will help the customer find another suitable worker nearby. This saves        time and avoids cancelling the service request.
+
+2. Emergency Quick Help Mode:
+   For urgent problems like water leakage, electrical issues, or lockouts, users can send an emergency request. The system will quickly      notify available workers nearby so help can reach them faster.
+
+3. Multilanguage and Voice Request:
+   Users can request a service in Marathi, Hindi, or English. They can also speak their request instead of typing, making the platform       easier for people who are not comfortable with typing or English.
+
+4. Built-in Social Security for Workers:
+   Workers can get information and easier access to government support such as e-Shram, PM-SYM pensions, PMJJBY insurance, and credit        facilities through the platform.
+
+5. Predictive Employment:
+   The system will use smart technology to study factors like weather, holidays, seasons, and local repair work to predict which services    may be needed in the future. This helps workers prepare for upcoming job opportunities.
+
+6. Women and Senior Citizens Safety Mode:
+   Women and senior citizens can use a special safety mode with features such as trusted-worker information, emergency help, and quick       contact options. This gives them extra confidence when requesting services at home.
+
+7. Core Innovation:
+   “Find nearby users booking the same service and share the cost.”
+   The platform will find nearby customers who need the same service. They can book one worker together and share the service cost,          making the service more affordable.
+
 
 
 Key Features:

@@ -93,14 +93,20 @@ Impact & Benefits:
 
 IMPACTS 
 Connected Community – Links workers with nearby needs.
+
 Trusted Reputation – Builds a worker’s record with every job.
+
 Stronger Worker Voice – Helps workers grow and decide together.
+
 Better Training – Identifies skills the community needs.
 
 BENEFITS
 Help When You Need It – Find the right local service easily.
+
 Know Who You’re Hiring – See worker skills, ratings, and past work.
+
 More Control for Workers – Manage jobs, availability, and profiles.
+
 A Community That Helps – Local people support local workers.
 
 Technology Stack:

@@ -1,5 +1,6 @@
 # SIH-2026-Project
 Cooperative Gig Services Platform for Household and Community Services
+
 A community-based platform connecting local service seekers with skilled workers.
 
 Many people need household and community services such as plumbing, electrical work, cleaning, repairing, gardening, cooking, tailoring, and other local services. At the same time, many skilled workers in the community have the ability to provide these services but struggle to find regular work and new customers.
@@ -92,6 +93,8 @@ AI Prediction-
 - Suggest workers
 - Forecast busy areas
 - Match skills with demand
+
+
 
 
 *Impact & Benefits:*

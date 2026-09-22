@@ -92,6 +92,7 @@ AI Prediction-
 Impact & Benefits:
 
 IMPACTS 
+
 Connected Community – Links workers with nearby needs.
 
 Trusted Reputation – Builds a worker’s record with every job.
@@ -101,6 +102,7 @@ Stronger Worker Voice – Helps workers grow and decide together.
 Better Training – Identifies skills the community needs.
 
 BENEFITS
+
 Help When You Need It – Find the right local service easily.
 
 Know Who You’re Hiring – See worker skills, ratings, and past work.

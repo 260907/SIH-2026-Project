@@ -11,18 +11,27 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
 Proposed Solution:
 
 -We propose a Cooperative Gig Services Platform that connects people who need household and community services with skilled workers available in their local area. The main purpose of the platform is to make it easier for customers to find the right worker and help local workers find more opportunities.
+
 -Users can search for services such as plumbing, electrical work, cleaning, repairing, gardening, cooking, tailoring, and other local services. They can view available workers based on their skills, location, availability, experience, and ratings before choosing someone.
+
 -Workers can create their own profiles and add their skills, experience, service area, availability, and details about the services they provide. They can receive service requests from nearby customers and manage their work through the platform. After a service is completed, customers can give ratings and feedback, helping workers build a trusted reputation.
+
 -The platform also follows a cooperative approach by encouraging workers to become part of a connected local network rather than working completely independently. It can help identify commonly required services and support workers in improving their skills based on community needs.
+
 -Overall, the proposed platform creates a simple connection between local service needs and local skills. It aims to make service discovery easier for customers while giving skilled workers better visibility and more opportunities to earn through their existing skills.
 
 How the Solution Addresses the Problem ?
 
 -The proposed platform addresses the current problems by bringing customers and skilled local workers together in one organized place. Instead of depending only on friends, neighbours, WhatsApp groups, or personal contacts, users can search for the service they need directly through the platform.
+
 -The problem of finding a suitable worker is addressed through service and worker search. Customers can find workers based on their skills, location, availability, experience, and ratings. This can reduce the time and effort required to find a service provider.
+
 -The problem of lack of trust is addressed through worker profiles, ratings, feedback, and work history. Customers can see useful information about a worker before requesting a service.
+
 -The problem of limited opportunities for workers is addressed by giving local workers a place to display their skills and reach more potential customers. Workers do not have to depend only on their existing personal contacts to find work.
+
 -The platform also addresses the problem of scattered information by keeping worker details, service requests, availability, and feedback in one place.
+
 -Finally, it helps make better use of local skills that may otherwise remain unnoticed. By connecting community needs with available workers, the platform can support local employment, improve access to services, and encourage stronger cooperation within the community.
 
 Objectives: 

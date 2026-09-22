@@ -8,6 +8,7 @@ This problem affects households, individuals, local workers, and the wider commu
 Existing methods also lack a common platform where workers can create profiles, list their skills, show their availability, build a reputation through completed work and feedback, and find suitable local opportunities.
 Our Cooperative Gig Services Platform aims to solve this gap by connecting people who need services with skilled local workers through one community-based platform. It can make service discovery easier, improve worker visibility, encourage trust, support local employment opportunities, and make better use of the skills available within the community.
 
+
 *Proposed Solution:*
 
 -We propose a Cooperative Gig Services Platform that connects people who need household and community services with skilled workers available in their local area. The main purpose of the platform is to make it easier for customers to find the right worker and help local workers find more opportunities.
@@ -19,6 +20,7 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
 -The platform also follows a cooperative approach by encouraging workers to become part of a connected local network rather than working completely independently. It can help identify commonly required services and support workers in improving their skills based on community needs.
 
 -Overall, the proposed platform creates a simple connection between local service needs and local skills. It aims to make service discovery easier for customers while giving skilled workers better visibility and more opportunities to earn through their existing skills.
+
 
 *How the Solution Addresses the Problem ?*
 
@@ -34,6 +36,7 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
 
 -Finally, it helps make better use of local skills that may otherwise remain unnoticed. By connecting community needs with available workers, the platform can support local employment, improve access to services, and encourage stronger cooperation within the community.
 
+
 *Objectives:*
 1. Swap Service: “Your worker isn’t available? We’ll find another!”
 2. Core innovation: “Find nearby users booking the same service and share the cost.”
@@ -41,7 +44,8 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
    Send the request to available nearby workers.
 4. Multilanguage and Voice request: Customer can speak in Marathi/ Hindi/ English instead of typing.
 5. Provides Built-in Social Security: Automatically links worker profiles to government welfare infrastructure (e-Shram, PMSYM pensions,     PMJJBY insurance, and credit access via Urban Cooperative Banks)
-6. 
+6. Predictive Employment: Smart AI analyzes weather, holidays and city repairs to forecast demand weeks ahead. 
+
 
 *Key Features:*
 Users-
@@ -89,6 +93,7 @@ AI Prediction-
 - Forecast busy areas
 - Match skills with demand
 
+
 *Impact & Benefits:*
 
 *IMPACTS* 
@@ -111,5 +116,10 @@ More Control for Workers – Manage jobs, availability, and profiles.
 
 A Community That Helps – Local people support local workers.
 
+
 *Technology Stack:*
+Frontend- FLUTTER
+Database- MySQL
+Infrastructure- GOOGLE CLOUD PLATFORM
+Backend- PYTHON
 

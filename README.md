@@ -8,7 +8,7 @@ This problem affects households, individuals, local workers, and the wider commu
 Existing methods also lack a common platform where workers can create profiles, list their skills, show their availability, build a reputation through completed work and feedback, and find suitable local opportunities.
 Our Cooperative Gig Services Platform aims to solve this gap by connecting people who need services with skilled local workers through one community-based platform. It can make service discovery easier, improve worker visibility, encourage trust, support local employment opportunities, and make better use of the skills available within the community.
 
-Proposed Solution:
+*Proposed Solution:*
 
 -We propose a Cooperative Gig Services Platform that connects people who need household and community services with skilled workers available in their local area. The main purpose of the platform is to make it easier for customers to find the right worker and help local workers find more opportunities.
 
@@ -20,7 +20,7 @@ Proposed Solution:
 
 -Overall, the proposed platform creates a simple connection between local service needs and local skills. It aims to make service discovery easier for customers while giving skilled workers better visibility and more opportunities to earn through their existing skills.
 
-How the Solution Addresses the Problem ?
+*How the Solution Addresses the Problem ?*
 
 -The proposed platform addresses the current problems by bringing customers and skilled local workers together in one organized place. Instead of depending only on friends, neighbours, WhatsApp groups, or personal contacts, users can search for the service they need directly through the platform.
 
@@ -34,7 +34,7 @@ How the Solution Addresses the Problem ?
 
 -Finally, it helps make better use of local skills that may otherwise remain unnoticed. By connecting community needs with available workers, the platform can support local employment, improve access to services, and encourage stronger cooperation within the community.
 
-Objectives: 
+*Objectives:*
 1. Swap Service: “Your worker isn’t available? We’ll find another!”
 2. Core innovation: “Find nearby users booking the same service and share the cost.”
 3. Emergency Quick Help Mode: For urgent household problems like water leakage, electrical issues, or lockout.
@@ -43,7 +43,7 @@ Objectives:
 5. Provides Built-in Social Security: Automatically links worker profiles to government welfare infrastructure (e-Shram, PMSYM pensions,     PMJJBY insurance, and credit access via Urban Cooperative Banks)
 6. 
 
-Key Features: 
+*Key Features:*
 Users-
 - Customer
 - Worker
@@ -89,9 +89,9 @@ AI Prediction-
 - Forecast busy areas
 - Match skills with demand
 
-Impact & Benefits:
+*Impact & Benefits:*
 
-IMPACTS 
+*IMPACTS* 
 
 Connected Community – Links workers with nearby needs.
 
@@ -101,7 +101,7 @@ Stronger Worker Voice – Helps workers grow and decide together.
 
 Better Training – Identifies skills the community needs.
 
-BENEFITS
+*BENEFITS*
 
 Help When You Need It – Find the right local service easily.
 
@@ -111,5 +111,5 @@ More Control for Workers – Manage jobs, availability, and profiles.
 
 A Community That Helps – Local people support local workers.
 
-Technology Stack:
+*Technology Stack:*
 

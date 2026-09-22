@@ -48,7 +48,8 @@ Our Cooperative Gig Services Platform aims to solve this gap by connecting peopl
 6. Predictive Employment: Smart AI analyzes weather, holidays and city repairs to forecast demand weeks ahead. 
 
 
-*Key Features:*
+Key Features:
+
 Users-
 - Customer
 - Worker
@@ -98,7 +99,7 @@ AI Prediction-
 
 
 
-*Impact & Benefits:*
+Impact & Benefits:
 
 *IMPACTS* 
 
@@ -123,7 +124,7 @@ A Community That Helps – Local people support local workers.
 
 
 
-*Technology Stack:*
+Technology Stack:
 
 Frontend- FLUTTER
 

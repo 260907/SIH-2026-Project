@@ -111,34 +111,60 @@ AI Prediction-
 - Match skills with demand
 
   
-
-
-
-
-
 Impact & Benefits:
 
 *IMPACTS* 
 
-Connected Community – Links workers with nearby needs.
+1. More Local Job Opportunities
+   The platform helps local workers find more service requests in their nearby areas. Even workers who do not have regular customers can     get new jobs based on their skills.
 
-Trusted Reputation – Builds a worker’s record with every job.
+2. Faster Help During Emergencies
+   Emergency Quick Help Mode can connect people with available nearby workers when they face urgent problems like water leakage,             electrical faults, or lockouts. This can reduce waiting time and make emergency situations easier to handle.
 
-Stronger Worker Voice – Helps workers grow and decide together.
+3. Affordable Services for Customers
+   Through shared bookings, people who need the same service can come together and share the cost. This can make some household services     more affordable, especially for nearby families or communities.
 
-Better Training – Identifies skills the community needs.
+4. Better Safety for Women and Senior Citizens
+   Safety features can give women and senior citizens more confidence when booking household services. They can access worker information    and quickly use emergency support when needed.
+
+5. More Opportunities for Skilled Workers
+   The platform brings hidden or unused local skills into the service network. Skilled people can turn their abilities into regular          earning opportunities instead of depending only on word-of-mouth work.
+
+6. Better Social Security for Workers
+   By connecting workers with government welfare and financial-support schemes, the platform can help them become more aware of available
+   benefits and improve their overall financial security.
+
+7. Stronger and More Connected Communities
+   Customers and workers from the same area can connect through one platform. This encourages people to support local workers and makes      it easier to find trusted services within the community.
+
+8. Better Planning for Future Work
+   Predictive employment can help workers understand which services may be in higher demand because of weather, holidays, seasons, or        local activities. This allows them to prepare their time and skills accordingly.
 
 *BENEFITS*
 
-Help When You Need It – Find the right local service easily.
+1. Find the Right Worker Easily
+   Customers can find nearby workers based on the service they need, their skills, availability, and previous work. They don't have to       depend only on asking friends or searching in different places.
 
-Know Who You’re Hiring – See worker skills, ratings, and past work.
+2. Save Time When a Worker Is Unavailable
+   If the selected worker cannot take the job, the Swap Service helps the customer find another suitable worker. This means the customer     does not have to start the search again.
 
-More Control for Workers – Manage jobs, availability, and profiles.
+3. Save Money by Booking Together
+   The Core Innovation allows nearby people who need the same service to join a common booking and share the cost. Customers can get the     service at a more manageable price while workers can handle multiple nearby requests efficiently.
 
-A Community That Helps – Local people support local workers.
+4. Get Faster Help in Emergencies
+   With Emergency Quick Help Mode, users can quickly send requests for urgent household problems. Instead of spending time searching for     a worker, the system can connect the request with available workers nearby.
 
+5. Easy to Use in Local Languages
+   People can use Marathi, Hindi, or English and can also speak their request instead of typing it. This makes the platform easier to use    for people who are less comfortable with English or typing.
 
+6. More Confidence for Women and Senior Citizens
+   The safety mode provides additional support when women and senior citizens need household services. Worker information and quick          emergency options can help them feel more comfortable while using the service.
+
+7. More Earning Opportunities for Workers
+   Workers can reach more customers and receive service requests based on their skills and location. This can help them turn their           existing skills into more regular earning opportunities.
+
+8. Build Trust Between Customers and Workers
+   Worker profiles, skills, ratings, reviews, and past work can help customers understand who they are hiring. At the same time, good        workers can gradually build a trusted reputation through their completed jobs.
 
 
 Technology Stack:

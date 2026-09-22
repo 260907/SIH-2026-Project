@@ -110,6 +110,8 @@ AI Prediction-
 - Forecast busy areas
 - Match skills with demand
 
+  
+
 
 
 

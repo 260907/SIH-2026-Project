@@ -97,6 +97,7 @@ AI Prediction-
 
 
 
+
 *Impact & Benefits:*
 
 *IMPACTS* 
@@ -118,6 +119,7 @@ Know Who You’re Hiring – See worker skills, ratings, and past work.
 More Control for Workers – Manage jobs, availability, and profiles.
 
 A Community That Helps – Local people support local workers.
+
 
 
 
